@@ -4,7 +4,8 @@
 
 # Work 
 - [Generative adversarial nets (GAN)](https://github.com/Python-Breaker/Research-Review/blob/master/001.%20Generative%20adversarial%20network.pptx) 
-= [Auto-Encoding Variational (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
+- [Auto-Encoding Variational (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
+- ...
 
 
 # members
